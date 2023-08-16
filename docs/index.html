@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <link rel="icon" href="/res/img/ShuLiLogo2.png">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="/src/MyTheme.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+</head>
+<body>
+  <div id="app"></div>
+  <!-- MyPlugins -->
+  <script src="/src/MyPlugin.js"></script>
+  <!-- Configuration -->
+  <script>
+    window.$docsify = {
+      name: (
+        '<div style="padding-left: 20px; padding-right: 20px"><table class="image-container" style="padding: 0"><tbody><tr>'+
+          '<td style="vertical-align: middle; width: 30%;"><img src="/res/img/ShuLiLogo1.png" alt="树礼书院"></td>'+
+          '<td style="vertical-align: middle; width: 70%;"><div style="letter-spacing: 0.2rem">树礼新生手册</div></td>'+
+        '</tr></tbody></table></div>'
+      ),
+      repo: '',
+      // 开启封面
+      coverpage: true,
+      // 开启导航栏
+      loadNavbar: true,
+      // 开启侧边栏
+      loadSidebar: true,
+      subMaxLevel: 3,
+      // 开启页脚
+      loadFooter: true,
+      // 设置搜索
+      search: {
+        paths: 'auto',
+        placeholder: {
+          '/': '搜索'
+        },
+        noData: {
+          '/': '没有找到！'
+        },
+        depth: 3,
+      },
+      // 配置插件
+      plugins: [
+        titlePlugin({
+          // This plugin is from https://github.com/docsifyjs/docsify/issues/540
+          suffix: ' - 树礼书院学生手册'
+        })
+      ],
+      'flexible-alerts': {
+        style: 'flat'
+      }
+    }
+  </script>
+  <!-- Docsify v4 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <!-- Plugins -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
+  <script src="//cdn.jsdelivr.net/npm/@alertbox/docsify-footer@1.0.0-0/dist/docsify-footer.min.js"></script>
+</body>
+</html>
