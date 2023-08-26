@@ -961,3 +961,11 @@ table.image-container td.border {
 .collapse:not(.show) {
   display: initial !important;
 }
+/* table */
+table.self {
+  border-collapse: initial;
+  border: 1px solid rgb(203, 203, 203);
+}
+table.self tr:nth-child(even) {
+  background-color: transparent;
+}
