@@ -31,10 +31,10 @@
                 <tbody>
                     <tr>
                         <td style="width: 48.7%;">
-                                <img src="../../res/img/problemsSolvent/CYL_GuangDongCYL.png" alt="广东共青团">
+                                <img src="../../res/img/deProblems/CYL_GuangDongCYL.png" alt="广东共青团">
                         </td>
                         <td style="width: 51.3%;">
-                            <img src="../../res/img/problemsSolvent/CYL_12355VoiceOfYouth.png" alt="12355青年之声">
+                            <img src="../../res/img/deProblems/CYL_12355VoiceOfYouth.png" alt="12355青年之声">
                         </td>
                     </tr>
                     <tr>
@@ -57,7 +57,7 @@
             2) 进入公众号后，从页面下方的菜单栏找到"智慧团建"，点击"团员报到"；
         </div>
         <div class="col-4">
-            <img src="../../res/img/problemsSolvent/CYL_Report.png" alt="团员报到">
+            <img src="../../res/img/deProblems/CYL_Report.png" alt="团员报到">
         </div>
         <div class="col-3">
             &nbsp;
@@ -108,7 +108,7 @@
             1) 通过"广东共青团"或"12355青年之声"公众号进入广东智慧团建，打开"组织关系转接"。这里要注意，不需要在浏览器上搜索"广东共青团"或者"广东共青团智慧团建"，团员们是无法通过这种方式登录的。
         </div>
         <div class="col-4">
-            <img src="../../res/img/problemsSolvent/CYL_OrgChange.png" alt="组织关系转接">
+            <img src="../../res/img/deProblems/CYL_OrgChange.png" alt="组织关系转接">
         </div>
         <div class="col-3">
             &nbsp;
@@ -144,7 +144,7 @@
             4) 提交成功后再次进入"组织关系转接"界面，点击查看"关系转接记录"，将保留姓名和转入团支部信息的截图提交到迎新报到系统。
         </div>
         <div class="col-4">
-                <img src="../../res/img/problemsSolvent/CYL_OrgChangeHistory.png" alt="关系转接记录">
+                <img src="../../res/img/deProblems/CYL_OrgChangeHistory.png" alt="关系转接记录">
         </div>
         <div class="col-3">
             &nbsp;
@@ -163,10 +163,10 @@
     <div class="container">
         <div class="row">
             <div class="col-6" style="padding-right: 0">
-                <img src="../../res/img/problemsSolvent/Mail_qqmail.png" alt="QQ邮箱">
+                <img src="../../res/img/deProblems/Mail_qqmail.png" alt="QQ邮箱">
             </div>
             <div class="col-6" style="padding-left: 0;margin-left: -1.6rem">
-                <img src="../../res/img/problemsSolvent/Mail_TxExmail.png" alt="腾讯企业邮箱">
+                <img src="../../res/img/deProblems/Mail_TxExmail.png" alt="腾讯企业邮箱">
             </div>
         </div>
     </div>
@@ -193,7 +193,7 @@
                 使用微信扫描以上二维码，关注后点击加入企业，选择"通过邮箱验证"。
             </div>
             <div class="col-4">
-                <img src="../../res/img/problemsSolvent/Mail_CoWXSquareCode.png" alt="企业微信二维码">
+                <img src="../../res/img/deProblems/Mail_CoWXSquareCode.png" alt="企业微信二维码">
             </div>
             <div class="col-3">
                 &nbsp;
@@ -204,7 +204,7 @@
                 输入自己的校园邮箱，之后会在刚刚登录号到QQ邮箱app里看到自己的验证邮件，最后输入验证码即可大功告成！。
             </div>
             <div class="col-4">
-                <img src="../../res/img/problemsSolvent/Mail_MailVerify.png" alt="通过邮箱验证">
+                <img src="../../res/img/deProblems/Mail_MailVerify.png" alt="通过邮箱验证">
             </div>
             <div class="col-3">
                 &nbsp;
@@ -243,13 +243,13 @@
     <div  lass="container">
         <div class="row">
             <div class="col-4" style="padding-right: 0">
-                <img src="../../res/img/problemsSolvent/Volunteer_Setting.png" alt="设置">
+                <img src="../../res/img/deProblems/Volunteer_Setting.png" alt="设置">
             </div>
             <div class="col-4" style="padding-left: 0; padding-right: 0">
-                <img src="../../res/img/problemsSolvent/Volunteer_MyOrg.png" alt="我的志愿组织">
+                <img src="../../res/img/deProblems/Volunteer_MyOrg.png" alt="我的志愿组织">
             </div>
             <div class="col-4" style="padding-left: 0">
-                <img src="../../res/img/problemsSolvent/Volunteer_SUVA.png" alt="南方科技大学义工联合会">
+                <img src="../../res/img/deProblems/Volunteer_SUVA.png" alt="南方科技大学义工联合会">
             </div>
         </div>
     </div>
@@ -283,10 +283,10 @@
     <div class="container">
         <div class="row">
             <div class="col-6" style="padding-right: 0">
-                <img src="../../res/img/problemsSolvent/Room_SUSTC.png" alt="南科大">
+                <img src="../../res/img/deProblems/Room_SUSTC.png" alt="南科大">
             </div>
             <div class="col-6" style="padding-left: 0">
-                <img src="../../res/img/problemsSolvent/Room_CollegeAppoint.png" alt="学工书院场地预约">
+                <img src="../../res/img/deProblems/Room_CollegeAppoint.png" alt="学工书院场地预约">
             </div>
         </div>
     </div>
@@ -300,13 +300,13 @@
     <div class="container">
         <div class="row">
             <div class="col-4" style="padding-right: 0">
-                <img src="../../res/img/problemsSolvent/Room_SUSTC.png" alt="南科大">
+                <img src="../../res/img/deProblems/Room_SUSTC.png" alt="南科大">
             </div>
             <div class="col-4" style="padding-left: 0; padding-right: 0">
-                <img src="../../res/img/problemsSolvent/Room_SchoolAppoint.png" alt="校园场馆/会议预约">
+                <img src="../../res/img/deProblems/Room_SchoolAppoint.png" alt="校园场馆/会议预约">
             </div>
             <div class="col-4" style="padding-left: 0">
-                <img src="../../res/img/problemsSolvent/Room_FacilityAppoint.png" alt="场地预约">
+                <img src="../../res/img/deProblems/Room_FacilityAppoint.png" alt="场地预约">
             </div>
         </div>
     </div>
@@ -316,13 +316,13 @@
     <div class="container">
         <div class="row">
             <div class="col-4" style="padding-right: 0">
-                <img src="../../res/img/problemsSolvent/Room_SportsFacilityList.png" alt="运动场地列表">
+                <img src="../../res/img/deProblems/Room_SportsFacilityList.png" alt="运动场地列表">
             </div>
             <div class="col-4" style="padding-left: 0; padding-right: 0">
-                <img src="../../res/img/problemsSolvent/Room_SportsFacilityNum.png" alt="场地号码">
+                <img src="../../res/img/deProblems/Room_SportsFacilityNum.png" alt="场地号码">
             </div>
             <div class="col-4" style="padding-left: 0">
-                <img src="../../res/img/problemsSolvent/Room_SportsFacilityInfo.png" alt="预约信息">
+                <img src="../../res/img/deProblems/Room_SportsFacilityInfo.png" alt="预约信息">
             </div>
         </div>
     </div>
@@ -333,31 +333,31 @@
 
 1. 打开官网，找到"常用系统"；
 
-    ![常用系统](../../res/img/problemsSolvent/Room_Classroom_CommonSys.png)
+    ![常用系统](../../res/img/deProblems/Room_Classroom_CommonSys.png)
 
 2. 进入本科教务系统；
 
-    ![本科教务系统](../../res/img/problemsSolvent/Room_Classroom_UndergraduateSys.png)
+    ![本科教务系统](../../res/img/deProblems/Room_Classroom_UndergraduateSys.png)
 
 3. 使用CAS账户登录后，即可看到以下页面；
 
-    ![主页](../../res/img/problemsSolvent/Room_Classroom_MainPage.png)
+    ![主页](../../res/img/deProblems/Room_Classroom_MainPage.png)
 
 4. 点击"业务办理"，找到"场地借用申请"；
 
-    ![业务办理-场地借用申请](../../res/img/problemsSolvent/Room_Classroom_Business.png)
+    ![业务办理-场地借用申请](../../res/img/deProblems/Room_Classroom_Business.png)
 
 5. 点击"添加场地借用"；
 
-    ![添加场地借用](../../res/img/problemsSolvent/Room_Classroom_Add.png)
+    ![添加场地借用](../../res/img/deProblems/Room_Classroom_Add.png)
 
 6. 填写必要信息，即可提交申请；
 
-    ![填写信息](../../res/img/problemsSolvent/Room_Classroom_FillInfo.png)
+    ![填写信息](../../res/img/deProblems/Room_Classroom_FillInfo.png)
 
 7. 等待教工部审核通过或不通过。
 
-    ![等待审核](../../res/img/problemsSolvent/Room_Classroom_Waiting.png)
+    ![等待审核](../../res/img/deProblems/Room_Classroom_Waiting.png)
 
 ### 图书馆讨论间
 
@@ -365,17 +365,17 @@
 
 1. 通过企业微信，打开"图书馆"；
 
-    ![图书馆](../../res/img/problemsSolvent/Room_Lib_.png)
+    ![图书馆](../../res/img/deProblems/Room_Lib_.png)
 
 2. 选择"讨论间预约"，即可根据提示预约讨论间；
 
     <div class="container">
         <div class="row">
             <div class="col-5" style="padding-right: 0">
-                <img src="../../res/img/problemsSolvent/Room_Lib_DiscussAppoint.png" alt="讨论间预约">
+                <img src="../../res/img/deProblems/Room_Lib_DiscussAppoint.png" alt="讨论间预约">
             </div>
             <div class="col-5" style="padding-left: 0">
-                <img src="../../res/img/problemsSolvent/Room_Lib_DiscussInfo.png" alt="讨论间信息">
+                <img src="../../res/img/deProblems/Room_Lib_DiscussInfo.png" alt="讨论间信息">
             </div>
         </div>
     </div>
@@ -385,7 +385,7 @@
     <div class="container">
         <div class="row">
             <div class="col-10" style="padding-right: 0">
-                <img src="../../res/img/problemsSolvent/Room_Lib_AppointRule.png" alt="预约规则">
+                <img src="../../res/img/deProblems/Room_Lib_AppointRule.png" alt="预约规则">
             </div>
         </div>
     </div>
@@ -403,10 +403,10 @@
 <div class="container">
     <div class="row" style="padding: 0 1rem 0 0.4rem">
         <div class="col-6" style="padding: 0">
-            <img src="../../res/img/problemsSolvent/StudentTicket_WriteInfo_1.png" alt="信息写入1">
+            <img src="../../res/img/deProblems/StudentTicket_WriteInfo_1.png" alt="信息写入1">
         </div>
         <div class="col-6" style="padding: 0">
-            <img src="../../res/img/problemsSolvent/StudentTicket_WriteInfo_2.png" alt="信息写入2">
+            <img src="../../res/img/deProblems/StudentTicket_WriteInfo_2.png" alt="信息写入2">
         </div>
     </div>
 </div>
@@ -424,10 +424,10 @@
     <div class="container">
         <div class="row">
             <div class="col-6" style="padding: 0">
-                <img src="../../res/img/problemsSolvent/StudentTicket_BindQuali_Certification1.png" alt="取报销凭证1">
+                <img src="../../res/img/deProblems/StudentTicket_BindQuali_Certification1.png" alt="取报销凭证1">
             </div>
             <div class="col-5" style="padding: 0">
-                <img src="../../res/img/problemsSolvent/StudentTicket_BindQuali_Certification2.png" alt="取报销凭证2">
+                <img src="../../res/img/deProblems/StudentTicket_BindQuali_Certification2.png" alt="取报销凭证2">
             </div>
         </div>
         <div class="row">
@@ -440,7 +440,7 @@
 
 - 在购票前提前到车站进行资质绑定后再购票。
 
-    ![优惠资质绑定](../../res/img/problemsSolvent/StudentTicket_BindQuali_Direct.png)
+    ![优惠资质绑定](../../res/img/deProblems/StudentTicket_BindQuali_Direct.png)
 
 - 直接在车站窗口或自动售票机购票（购票时完成资质绑定）。
 
@@ -449,10 +449,10 @@
 <div class="container">
     <div class="row" style="padding: 0 1rem 0 0.4rem">
         <div class="col-6" style="padding: 0">
-            <img src="../../res/img/problemsSolvent/StudentTicket_BindQuali_Check.png" alt="查询资质">
+            <img src="../../res/img/deProblems/StudentTicket_BindQuali_Check.png" alt="查询资质">
         </div>
         <div class="col-6" style="padding: 0">
-            <img src="../../res/img/problemsSolvent/StudentTicket_BindQuali_CheckResult.png" alt="查询结果">
+            <img src="../../res/img/deProblems/StudentTicket_BindQuali_CheckResult.png" alt="查询结果">
         </div>
     </div>
 </div>
@@ -465,13 +465,13 @@
 <div class="container">
     <div class="row" style="padding: 0 1rem 0 0.4rem">
         <div class="col-4" style="padding: 0">
-            <img src="../../res/img/problemsSolvent/HKMacauPassport_Appoint_Service.png" alt="港澳通行证预约-政务服务">
+            <img src="../../res/img/deProblems/HKMacauPassport_Appoint_Service.png" alt="港澳通行证预约-政务服务">
         </div>
         <div class="col-4" style="padding: 0">
-            <img src="../../res/img/problemsSolvent/HKMacauPassport_Appoint_ChooseResidence.png" alt="港澳通行证预约-户籍情况选择">
+            <img src="../../res/img/deProblems/HKMacauPassport_Appoint_ChooseResidence.png" alt="港澳通行证预约-户籍情况选择">
         </div>
         <div class="col-4" style="padding: 0">
-            <img src="../../res/img/problemsSolvent/HKMacauPassport_Appoint_ChooseClass.png" alt="港澳通行证预约-预约类型·">
+            <img src="../../res/img/deProblems/HKMacauPassport_Appoint_ChooseClass.png" alt="港澳通行证预约-预约类型·">
         </div>
     </div>
 </div>
@@ -498,16 +498,16 @@
 <div class="container">
     <div class="row" style="padding: 0 0.4rem 0 0.4rem">
         <div class="col-3" style="padding: 0">
-            <img src="../../res/img/problemsSolvent/Card_HotWarterRecharge_1.png" alt="热水充值1">
+            <img src="../../res/img/deProblems/Card_HotWarterRecharge_1.png" alt="热水充值1">
         </div>
         <div class="col-3" style="padding: 0">
-            <img src="../../res/img/problemsSolvent/Card_HotWarterRecharge_2.png" alt="热水充值2">
+            <img src="../../res/img/deProblems/Card_HotWarterRecharge_2.png" alt="热水充值2">
         </div>
         <div class="col-3" style="padding: 0">
-            <img src="../../res/img/problemsSolvent/Card_HotWarterRecharge_3.png" alt="热水充值3">
+            <img src="../../res/img/deProblems/Card_HotWarterRecharge_3.png" alt="热水充值3">
         </div>
         <div class="col-3" style="padding: 0">
-            <img src="../../res/img/problemsSolvent/Card_HotWarterRecharge_4.png" alt="热水充值4">
+            <img src="../../res/img/deProblems/Card_HotWarterRecharge_4.png" alt="热水充值4">
         </div>
     </div>
 </div>
@@ -517,10 +517,10 @@
 <div class="container">
     <div class="row" style="padding: 0 0.4rem 0 0.4rem">
         <div class="col-4" style="padding: 0">
-            <img src="../../res/img/problemsSolvent/Card_CardRecharge_1.png" alt="校园卡充值1">
+            <img src="../../res/img/deProblems/Card_CardRecharge_1.png" alt="校园卡充值1">
         </div>
         <div class="col-4" style="padding: 0">
-            <img src="../../res/img/problemsSolvent/Card_CardRecharge_2.png" alt="校园卡充值2">
+            <img src="../../res/img/deProblems/Card_CardRecharge_2.png" alt="校园卡充值2">
         </div>
     </div>
 </div>
@@ -545,3 +545,31 @@
 
 > [!NOTE]
 > 在打印系统上可查询打印位置，可打印纸张大小，颜色（每学年有100元打印补贴，黑白0.1元一张，彩色1元一张）
+
+## 学生事务中心自助拍照
+自助拍照机位于学生事务中心(一丹图书馆二楼斜对面)，可拍摄证件照，20元/次。
+
+据使用过的同学说，有时候机器有问题拍不了，拍的也不好看，不太推荐。
+
+## 身份证办理
+### 办理材料
+照片回执：派出所现拍（较小的可能没有）、照相馆现拍、淘宝。
+
+### 建议办理点
+民治派出所：地铁5号线到民治地铁站
+
+### 办理流程
+1. 在"深圳公安"公众号上，"**户政预约**"中按照自己**户籍情况**选择要办理的业务进行预约。
+
+    <div class="container">
+        <div class="row">
+            <div class="col-4" style="padding: 0">
+                <img src="../../res/img/deProblems/IDCard_Step1.png" alt="校园卡充值1">
+            </div>
+            <div class="col-4" style="padding: 0">
+                <img src="../../res/img/deProblems/IDCard_Step2.png" alt="校园卡充值2">
+            </div>
+        </div>
+    </div>
+
+2. 带照片回执到预约派出所办理。

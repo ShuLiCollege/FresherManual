@@ -1,7 +1,5 @@
 # 选专业
-
 ## 思路
-
 ### 因素
 下面三条因素不分先后，同等重要：
 1. 兴趣
@@ -12,20 +10,29 @@
 
 ### 1+3和2+2
 1+3指第一年结束时进专业，3年后毕业；2+2指第二年结束时进专业，2年后毕业。
+
 最主要的区别其实就两个，即院系资源和“转”专业难度。如果2+2，晚一年进专业，显然院系资源会少一些，但是等到大二结束选专业的时候会比到时候转专业简单不少。1+3则相反。
 
 ### 流程
 如果你上面三者都想的很透彻，也就不用看这一部分了。但是显然，几乎没有人能做到在高考完后想明白这些。
+
 #### Step 0: 确定路线
 啥意思，就是如果你有了大致的选择，先在后续大学生活中确定这个选择适不适合自己；如果不适合，再考虑其他的选择。
+
 如果没有大致的方向，按照排除法，逐步缩小。
+
 #### Step 1: 根据三条因素考虑
-根据你了解到的信息，挨个考虑验证（了解渠道推荐在____）。
+根据你了解到的信息，挨个考虑验证（了解渠道推荐见下文）。
+
 兴趣，这个需要你了解自己，同时也要你增加体验。找到兴趣的最理想的状态是：你的内心告诉你是它。很玄乎是吧，有些表现也能体现出来，比如你每天都会充满动力地想做它。同时，还有另外一个就是考虑这个兴趣是不是错觉，是否经得起时间的考验。
+
 能力，大学的课堂，科研，工作等等都是非常好的机会去发现自己的能力，探索自己的边界。所以，需要多去体验。
-社会需求，这个需要搜集信息，具体的方法在_____有提到。
+
+社会需求，这个需要搜集信息，具体的方法在下文渠道部分有提到。
+
 #### Step 2: 权衡
 上一步应该已经可以解决有大致选择的学弟学妹的问题了。因此，这一步是针对做排除法的学弟学妹的。
+
 如果在大一有按照第一步做，那么在大一的最后两个月，你应该会在几个专业间犹豫，这里提供几个可行的权衡因素：
 - 专业资源
   - 比如这个专业如果人很多，那么人均资源就会相对少一些。
@@ -48,7 +55,7 @@
 
 ### 培养方案
 培养方案不需要去和人聊天，对内向的孩子很友好。同时，培养方案中的信息非常全面。
-![生物信息学22级培养方案专业必修部分](../../res/img/learning/bioinfo_22_req.png)
+![生物信息学22级培养方案专业必修部分](../../res/img/learning/Major_Channel_BioInfo22Req.png)
 以我这一届的生物信息学培养方案为例。专业必修课可以给你初步的筛选方法，如果有些专业必修课你一看就头大，直接pass（如果看不懂这个课的名字，上网查可以找到人话）。专业选修课可以帮助你知道这个专业有哪些细分的方向。同样，前面的一些专业介绍，不同专业对比也能看出一些端倪。最后，培养方案中的课程安排，学分要求，毕业要求等等，也是你可以考虑的信息。
 
 ### 一流专业列表
@@ -58,10 +65,10 @@
         <tbody>
             <tr>
                 <td style="width: 50%;">
-                    <img src="../../res/img/learning/SUSTech1stClass.png" alt="妮可国家一流专业" class="image">
+                    <img src="../../res/img/learning/Major_Channel_SUSTech1stClass.png" alt="妮可国家一流专业" class="image">
                 </td>
                 <td style="width: 50%;">
-                    <img src="../../res/img/learning/SUSTech1stClassLoc.png" alt="妮可省一流专业" class="image">
+                    <img src="../../res/img/learning/Major_Channel_SUSTech1stClassLoc.png" alt="妮可省一流专业" class="image">
                 </td>
             </tr>
         </tbody>
@@ -91,7 +98,7 @@
                 <p>搜素“本科专业怎么选”；</p>
             </td>
             <td style="width: 80%;">
-                <img src="../../res/img/learning/BilibiliStep1.png" alt="B站搜索1" class="image">
+                <img src="../../res/img/learning/Major_Channel_BilibiliStep1.png" alt="B站搜索1" class="image">
             </td>
         </tr>
         <tr>
@@ -99,7 +106,7 @@
                 <p>搜索院系专业，方便横向对比；</p>
             </td>
             <td style="width: 80%;">
-                <img src="../../res/img/learning/BilibiliStep2.png" alt="B站搜索2" class="image">
+                <img src="../../res/img/learning/Major_Channel_BilibiliStep2.png" alt="B站搜索2" class="image">
             </td>
         </tr>
         <tr>
@@ -107,14 +114,14 @@
                 <p>直接搜索专业名称，坑不坑一眼便知；还有一些up，会出系统的视频来讲每个专业。</p>
             </td>
             <td style="width: 80%;">
-                <img src="../../res/img/learning/BilibiliStep3.png" alt="B站搜索3" class="image">
+                <img src="../../res/img/learning/Major_Channel_BilibiliStep3.png" alt="B站搜索3" class="image">
             </td>
         </tr>
     </tbody>
 </table>
 
 #### 知乎
-![知乎搜索](../../res/img/learning/ZhihuSearch.png)
+![知乎搜索](../../res/img/learning/Major_Channel_ZhihuSearch.png)
 
 #### AI
 
@@ -128,7 +135,7 @@
         <tr>
             <td>
                 <div class="image-container alignleft" style="width: 80%">
-                    <img src="../../res/img/learning/AISearch.png" alt="AI搜索" class="image">
+                    <img src="../../res/img/learning/Major_Channel_AISearch.png" alt="AI搜索" class="image">
                 </div>
             </td>
         </tr>
