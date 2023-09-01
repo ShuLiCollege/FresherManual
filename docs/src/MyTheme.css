@@ -957,15 +957,41 @@ table.image-container td.border {
   font-weight: normal; 
   text-decoration: none;
 }
+.footer.copyrightInfo {
+  margin-top: -1rem;
+}
+/* coverpage */
+.coverpage {
+  width: auto;
+}
+.coverpage ul {
+  margin: 16px 60px 16px 60px;
+}
 /* sidebar */
 .collapse:not(.show) {
   display: initial !important;
 }
 /* table */
-table.self {
-  border-collapse: initial;
-  border: 1px solid rgb(203, 203, 203);
+section.cover ul {
+  max-width: 560px;
 }
-table.self tr:nth-child(even) {
-  background-color: transparent;
+/* watermark */
+section.content::after {
+  content: "";
+  background-image: url(../res/img/ShuLiLogo1.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 180px;
+  opacity: 0.1;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  pointer-events: none;
+  z-index: -1;
+}
+/* alert #ddd8d1 */
+.alert.callout {
+  background-color: #f9fcff !important;
 }

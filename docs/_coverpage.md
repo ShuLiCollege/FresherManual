@@ -4,7 +4,7 @@
 
 ### 树礼书院新生手册
 - Since 2023
-<!-- - All text is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) -->
+- Unless otherwise stated, all texts are licensed under [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
 
-[GitHub](fafsadf)
+[GitHub](https://github.com/ShuLiCollege/FresherManual)
 [开始阅读](#树礼书院新生手册)
