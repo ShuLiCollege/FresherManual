@@ -972,6 +972,14 @@ table.image-container td.border {
   display: initial !important;
 }
 /* table */
+table.self {
+  width: auto;
+  border-collapse: separate;
+}
+table.self tr:nth-child(even) {
+  background-color: transparent;
+}
+/* cover */
 section.cover ul {
   max-width: 560px;
 }
@@ -991,7 +999,7 @@ section.content::after {
   pointer-events: none;
   z-index: -1;
 }
-/* alert #ddd8d1 */
+/* alert */
 .alert.callout {
   background-color: #f9fcff !important;
 }
