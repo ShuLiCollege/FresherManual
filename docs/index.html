@@ -8,7 +8,16 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="/src/MyTheme.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+  <link 
+    rel="stylesheet" 
+    href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" 
+    integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" 
+    crossorigin="anonymous"
+  />
+  <link
+    rel="stylesheet"
+    href="//cdn.jsdelivr.net/npm/docsify-top-banner-plugin@latest/dist/style.css"
+  />
 </head>
 <body>
   <div id="app"></div>
@@ -31,6 +40,10 @@
       // 开启侧边栏
       loadSidebar: true,
       subMaxLevel: 3,
+      // 入口文件
+      homepage: 'doc/README.md',
+      // 链接跳转
+      topMargin: 40,
       // 开启页脚
       loadFooter: true,
       // 设置搜索
@@ -63,5 +76,6 @@
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
   <script src="//cdn.jsdelivr.net/npm/@alertbox/docsify-footer@1.0.0-0/dist/docsify-footer.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-top-banner-plugin@latest/dist/index.js"></script>
 </body>
 </html>
