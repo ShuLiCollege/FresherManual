@@ -984,7 +984,7 @@ section.cover ul {
 /* watermark */
 section.content::after {
   content: "";
-  background-image: url(../res/img/ShuLiLogo1.png);
+  background-image: url(https://shuli-gz-1259749012.cos.ap-guangzhou.myqcloud.com/img/ShuLiLogo1.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: 180px;
