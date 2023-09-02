@@ -5,7 +5,7 @@
 
 在图书馆借书还书等操作都可以在自助借还书机上完成
 
-![](../../res/img/learning/Res_Lib_CirculationMachine.png)
+![](.https://shuli-gz-1259749012.cos.ap-guangzhou.myqcloud.com/img/learning/Res_Lib_CirculationMachine.jpg)
 
 #### 借还书机位置：
 

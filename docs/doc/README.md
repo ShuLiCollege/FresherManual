@@ -3,7 +3,7 @@
 <!-- ## What's this? -->
 
 ## 授权信息
-未做声明的文字均以 ![cc-by-nc-sa](res/img/mainpage/by-nc-sa.svg) [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 协议授权，其余内容版权按所在页面的声明进行。树礼书院大学长团保留对本手册文字内容的解释权。
+未做声明的文字均以 ![cc-by-nc-sa](https://shuli-gz-1259749012.cos.ap-guangzhou.myqcloud.com/img/mainpage/by-nc-sa.svg) [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 协议授权，其余内容版权按所在页面的声明进行。树礼书院大学长团保留对本手册文字内容的解释权。
 
 > [!Warning|label:上述协议简略版本|iconVisibility:hidden]
 > 您可以自由地：
@@ -25,8 +25,8 @@
 ## 照片墙
 ### 一些栗宝艺作
 #### by 黄宏凯
-<img src="res/img/mainpage/LiBaoArt_byHuangHongKai.png" alt="栗宝艺作" width="60%">
+<img src="https://shuli-gz-1259749012.cos.ap-guangzhou.myqcloud.com/img/mainpage/LiBaoArt_byHuangHongKai.png" alt="栗宝艺作" width="60%">
 
 ### 大学长团
 #### 2023级
-![大学长团2023级](res/img/mainpage/Seniors_2023.jpg)
+![大学长团2023级](https://shuli-gz-1259749012.cos.ap-guangzhou.myqcloud.com/img/mainpage/Seniors_2023.jpg)

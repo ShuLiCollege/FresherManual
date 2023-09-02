@@ -2,7 +2,7 @@
 ## 如何选课
 1. 在[教学管理服务平台](https://tis.sustech.edu.cn)用CAS登录之后选课，要经过三轮：积分博弈、退补选和特殊类型（W）退课，原则上**每学期课程学分之和不超过25学分，建议修读18-23学分。**
 
-    ![选课系统](../../res/img/learning/Course_SelectionSys.png)
+    ![选课系统](https://shuli-gz-1259749012.cos.ap-guangzhou.myqcloud.com/img/learning/Course_SelectionSys.png)
 
 2. 每个人在第一轮选课截至之前有自由的100分可投，选某门课即投至少1分。该门课在投分截止之后按"**从高到低、末尾同分淘汰**"的制度划定积分选课的名额，故不会出现某门课在此轮超额的状态。比如说，某老师的高等数学A课容量为120，刘小天同学投了25分，一共有117人投了26分及以上，那么有以下情况：其一，与刘小天投入相同分数（25分）的同学一共小于等于3人，他们都能选上这门课；其二，与刘小天投入相同分数（25分）的同学超过了3人，则他们会一起没选上这门课。
 
@@ -22,7 +22,7 @@
 5. 在此以个人拙见推荐一些老师------数学分析：付云皓、马富明；高等数学：王融、李觉先、花永霞；线性代数：张文龙、陈懿茂、马梓铭；大学物理：鲁大为、王克东、陈远珍；人文社科：刘绪、杨河、刘洋、李蓝、王捷；体育中心：赵飞、卢阳、罗林斯特、何紫琳、赖莎；艺术中心：周明聪、刘珂廷、纪涛；思政中心：尹玮煜、杨少曼、杨晗旭、滕明政；语言中心：喻永阳、BeatriceClegg、董蓉蓉、刘丽莎。
 
 **例如：师小昊喜欢微电子、光电、通信专业，参考培养方案发现------**
-![电子方向培养方案](../../res/img/learning/Course_Elec.png)
+![电子方向培养方案](https://shuli-gz-1259749012.cos.ap-guangzhou.myqcloud.com/img/learning/Course_SelectionSys.png)
 
 显然他大一上学习C语言这门计算机课会比较好，对大多数同学来说线性代数和计算机课建议分开学（但是仍然有足够自信的大佬数分、高代、JAVA一起学的，比如刘睿学姐）。
 
@@ -31,7 +31,7 @@
 ## 一些细节
 1. 南科大几乎所有课程都允许旁听，体现在选课上就是即使你某门课积分选课的时候掉课了但是特别想上，也可以正常去教室听课并进入课程群，之后在退补选阶段尝试选上这门课，没抢上大不了换课就好。
 
-2. 第一个学期选课建议不要过于激进，重点在于**适应大学的学习方式方法，养成自己的学习习惯并保持，并不是25学分就比17学分更值得被称赞。**
+2. 第一个学期选课建议不要过于激进，重点在于**适应大学的学习方式方法，养成自己的学习习惯并保持，并不是25学分就比17学分更值得被称赞。** 也不要太自信，选择各个课程的 Hard 版叠在一起，可能绩点从此报废……
 
 3. 建议和熟悉的同学一起选同一个老师教的某门课，Communication Fuels Your Tanker！
 
@@ -39,10 +39,10 @@
 
     <div class="container"><div class="row">
         <div class="col-4" style="padding-right: 0">
-            <img src="/FresherManual/res/img/learning/Course_PointsExample1.png" alt="投分情况1">
+            <img src="https://shuli-gz-1259749012.cos.ap-guangzhou.myqcloud.com/img/learning/Course_PointsExample1.png" alt="投分情况1">
         </div>
         <div class="col-3" style="padding-left: 0">
-            <img src="/FresherManual/res/img/learning/Course_PointsExample2.png" alt="投分情况2">
+            <img src="https://shuli-gz-1259749012.cos.ap-guangzhou.myqcloud.com/img/learning/Course_PointsExample2.png" alt="投分情况2">
         </div>
     </div></div>
 

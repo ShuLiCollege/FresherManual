@@ -55,7 +55,7 @@
 
 ### 培养方案
 培养方案不需要去和人聊天，对内向的孩子很友好。同时，培养方案中的信息非常全面。
-![生物信息学22级培养方案专业必修部分](../../res/img/learning/Major_Channel_BioInfo22Req.png)
+![生物信息学22级培养方案专业必修部分](https://shuli-gz-1259749012.cos.ap-guangzhou.myqcloud.com/img/learning/Major_Channel_BioInfo22Req.png)
 以我这一届的生物信息学培养方案为例。专业必修课可以给你初步的筛选方法，如果有些专业必修课你一看就头大，直接pass（如果看不懂这个课的名字，上网查可以找到人话）。专业选修课可以帮助你知道这个专业有哪些细分的方向。同样，前面的一些专业介绍，不同专业对比也能看出一些端倪。最后，培养方案中的课程安排，学分要求，毕业要求等等，也是你可以考虑的信息。
 
 ### 一流专业列表
@@ -65,10 +65,10 @@
         <tbody>
             <tr>
                 <td style="width: 50%;">
-                    <img src="/FresherManual/res/img/learning/Major_Channel_SUSTech1stClass.png" alt="妮可国家一流专业" class="image">
+                    <img src="https://shuli-gz-1259749012.cos.ap-guangzhou.myqcloud.com/img/learning/Major_Channel_SUSTech1stClass.png" alt="妮可国家一流专业" class="image">
                 </td>
                 <td style="width: 50%;">
-                    <img src="/FresherManual/res/img/learning/Major_Channel_SUSTech1stClassLoc.png" alt="妮可省一流专业" class="image">
+                    <img src="https://shuli-gz-1259749012.cos.ap-guangzhou.myqcloud.com/img/learning/Major_Channel_SUSTech1stClassLoc.png" alt="妮可省一流专业" class="image">
                 </td>
             </tr>
         </tbody>
@@ -98,7 +98,7 @@
                 <p>搜素“本科专业怎么选”；</p>
             </td>
             <td style="width: 80%;">
-                <img src="/FresherManual/res/img/learning/Major_Channel_BilibiliStep1.png" alt="B站搜索1" class="image">
+                <img src="https://shuli-gz-1259749012.cos.ap-guangzhou.myqcloud.com/img/learning/Major_Channel_BilibiliStep1.jpg" alt="B站搜索1" class="image">
             </td>
         </tr>
         <tr>
@@ -106,7 +106,7 @@
                 <p>搜索院系专业，方便横向对比；</p>
             </td>
             <td style="width: 80%;">
-                <img src="/FresherManual/res/img/learning/Major_Channel_BilibiliStep2.png" alt="B站搜索2" class="image">
+                <img src="https://shuli-gz-1259749012.cos.ap-guangzhou.myqcloud.com/img/learning/Major_Channel_BilibiliStep2.jpg" alt="B站搜索2" class="image">
             </td>
         </tr>
         <tr>
@@ -114,14 +114,14 @@
                 <p>直接搜索专业名称，坑不坑一眼便知；还有一些up，会出系统的视频来讲每个专业。</p>
             </td>
             <td style="width: 80%;">
-                <img src="/FresherManual/res/img/learning/Major_Channel_BilibiliStep3.png" alt="B站搜索3" class="image">
+                <img src="https://shuli-gz-1259749012.cos.ap-guangzhou.myqcloud.com/img/learning/Major_Channel_BilibiliStep3.jpg" alt="B站搜索3" class="image">
             </td>
         </tr>
     </tbody>
 </table>
 
 #### 知乎
-![知乎搜索](../../res/img/learning/Major_Channel_ZhihuSearch.png)
+![知乎搜索](https://shuli-gz-1259749012.cos.ap-guangzhou.myqcloud.com/img/learning/Major_Channel_ZhihuSearch.png)
 
 #### AI
 
@@ -135,7 +135,7 @@
         <tr>
             <td>
                 <div class="image-container alignleft" style="width: 80%">
-                    <img src="/FresherManual/res/img/learning/Major_Channel_AISearch.png" alt="AI搜索" class="image">
+                    <img src="https://shuli-gz-1259749012.cos.ap-guangzhou.myqcloud.com/img/learning/Major_Channel_ZhihuSearch.png" alt="AI搜索" class="image">
                 </div>
             </td>
         </tr>

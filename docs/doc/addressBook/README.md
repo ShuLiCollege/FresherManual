@@ -4,13 +4,13 @@
 ## 常用网址
 ### 学校官网
 网址：<https://www.sustech.edu.cn/>
-![学校官网](../../res/img/addressBook/SUSTech.png)
+![学校官网](https://shuli-gz-1259749012.cos.ap-guangzhou.myqcloud.com/img/addressBook/SUSTech.jpg)
 
 ### 常用系统界面 
 网址：https://www.sustech.edu.cn/zh/common-systems.html
 
 建议直接把这个网页添加到收藏夹里面，可以通向所有的常用系统
-![常用系统界面](../../res/img/addressBook/commonSys.jpeg)
+![常用系统界面](https://shuli-gz-1259749012.cos.ap-guangzhou.myqcloud.com/img/addressBook/commonSys.jpeg)
 
 以下常用系统可以直接收藏，方便直接访问
 > 本科教务系统：<https://tis.sustech.edu.cn/>（选课、个人考试查询、个人成绩查询、预约教室）
@@ -47,7 +47,7 @@
 
 
 ## 重要电话/邮箱
-![学校联系方式](../../res/img/addressBook/SUSTechContactInfo.png)
+![学校联系方式](https://shuli-gz-1259749012.cos.ap-guangzhou.myqcloud.com/img/addressBook/SUSTech.jpg)
 > [!NOTE]
 > 校内电话皆以**8801**开头
 

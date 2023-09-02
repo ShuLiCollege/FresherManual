@@ -60,12 +60,12 @@ Calculus从观察到的现象提出问题，最后为了解决这个问题需要
 
 #### 遇到学习问题怎么办？
 遇到问题，第一时间找个懂的人问问。很多人觉得，自己遇到的问题，只能自己琢磨、自己搞定。实际上，无论你遇到什么问题，别人可能都遇到过，都解决了，甚至都有标准答案，你只要找人问问就可以。
-![雷军谈问问题](../../res/img/learning/Main_Sending_LeiJun_AskQuestion.png)
+![雷军谈问问题](https://shuli-gz-1259749012.cos.ap-guangzhou.myqcloud.com/img/learning/Main_Sending_LeiJun_AskQuestion.jpg)
 <div class="footer copyrightInfo">From 雷军2023年度演讲</div>
 
 #### 教材看不懂怎么办？
 硬着头皮看，跳着看，回头看，慢慢就懂了。
-![雷军谈学习顺序](../../res/img/learning/Main_Sending_LeiJun_ReadTextbook.png)
+![雷军谈学习顺序](https://shuli-gz-1259749012.cos.ap-guangzhou.myqcloud.com/img/learning/Main_Sending_LeiJun_AskQuestion.jpg)
 <div class="footer copyrightInfo">From 雷军2023年度演讲</div>
 
 ### 王子睿学长の大一学习经历
