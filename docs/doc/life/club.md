@@ -51,7 +51,7 @@ CONC Acappella成立于2022年。Acappella是一种不使用乐器伴奏的人�
 
 **男篮**
 
-<img src="../../res/img/life/Club_ShuLiBasketballMale.png" alt="树礼男篮" class="col-3 float-md-start mb-3 me-md-3">
+<img src="/FresherManual/res/img/life/Club_ShuLiBasketballMale.png" alt="树礼男篮" class="col-3 float-md-start mb-3 me-md-3">
 
 树礼书院男篮，现役队员数量**20人左右**，每周**1～2次**由**专业教练指导**的技战术训练，定期会一起观看比赛回放总结得失。代表书院参加每年的**书院杯和新生杯**篮球赛。平时训练内容有个人技巧如运球投篮，以及团队能力，如传球战术培养比赛经验。树礼男篮在今年的书院杯中荣获**本科书院第二**的位次，并在与港中深的友谊赛中获得胜利。秋季开学会有招新。主要根据**新生班级比赛表现**与**个人实力**筛选，**招新6人左右**。
 
@@ -67,7 +67,7 @@ CONC Acappella成立于2022年。Acappella是一种不使用乐器伴奏的人�
 
 **男足**
 
-<img src="../../res/img/life/Club_ShuLiSoccerMale.png" alt="树礼男足" class="col-3 float-md-start mb-3 me-md-3">
+<img src="/FresherManual/res/img/life/Club_ShuLiSoccerMale.png" alt="树礼男足" class="col-3 float-md-start mb-3 me-md-3">
 
 树礼男子足球队是一支充满活力与潜力的年轻劲旅，近年来整体实力一直在稳步提升。在书院杯上我们连续四届比赛**小组出线**，在**新生杯**中更是连续两届的**亚军**获得者。球队每周组织**2～3次训练**，由**专业教练员何耀锦老师**带领。何教练认真细心，熟知每位球员的特点，是带训练次数最多以及唯一亲自指导新生杯的教练，在书院杯等11人制比赛中也积极使用新生。所以，我们是最注重培养新人的队伍，这在我们的日常训练与正式比赛中都能得到体现。我们欢迎所有热爱体育、热爱足球的同学，大家一起进步，一起为树礼创造新的辉煌！
 
@@ -79,7 +79,7 @@ CONC Acappella成立于2022年。Acappella是一种不使用乐器伴奏的人�
 
 **女足**
 
-<img src="../../res/img/life/Club_ShuLiSoccerFemale.png" alt="树礼女足" class="col-3 float-md-start mb-3 me-md-3">
+<img src="/FresherManual/res/img/life/Club_ShuLiSoccerFemale.png" alt="树礼女足" class="col-3 float-md-start mb-3 me-md-3">
 
 树礼女足是一支充满欢乐与激情的队伍。在前两届女足书院杯五人制球赛中，队员们通过赛场上的顽强拼搏分别取得了**四强和季军**的好成绩。目前，队内有**七名队员**和一名教练，球队每周会进行**一次**系统的训练，不时会与其他书院女足或男队进行友谊赛。**运动没有门槛**，所以只要对足球感兴趣都可以加入女足大家庭！
 
@@ -88,7 +88,7 @@ CONC Acappella成立于2022年。Acappella是一种不使用乐器伴奏的人�
 ### 排球队
 
 <div class="clearfix">
-<img src="../../res/img/life/Club_ShuLiVolleyball.png" alt="树礼排球" class="col-3 float-md-start mb-3 me-md-3">
+<img src="/FresherManual/res/img/life/Club_ShuLiVolleyball.png" alt="树礼排球" class="col-3 float-md-start mb-3 me-md-3">
 
 正如树礼书院是南科大最年轻的书院，树礼书院排球队也是一支非常年轻的队伍（几乎全部由22级学生组成），诚然我们还在不断进步和摸索的过程中，尚未取得傲人的战绩，但正因如此，我们也拥有更大的可塑性和更多的可能性。我们相信，通过大家的共同努力，树礼书院排球队会越来越好。关于活动组织，会尽量安排在周末合适的时间组织常规性的训练和赛前集训，以提高大家的实力。顺便一提，报名排球校级赛事可以满足**体育课的校级比赛要求**（计入体育课成绩10分），并领取到帅气的比赛队服哦\~
 

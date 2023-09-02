@@ -65,10 +65,10 @@
         <tbody>
             <tr>
                 <td style="width: 50%;">
-                    <img src="../../res/img/learning/Major_Channel_SUSTech1stClass.png" alt="妮可国家一流专业" class="image">
+                    <img src="/FresherManual/res/img/learning/Major_Channel_SUSTech1stClass.png" alt="妮可国家一流专业" class="image">
                 </td>
                 <td style="width: 50%;">
-                    <img src="../../res/img/learning/Major_Channel_SUSTech1stClassLoc.png" alt="妮可省一流专业" class="image">
+                    <img src="/FresherManual/res/img/learning/Major_Channel_SUSTech1stClassLoc.png" alt="妮可省一流专业" class="image">
                 </td>
             </tr>
         </tbody>
@@ -98,7 +98,7 @@
                 <p>搜素“本科专业怎么选”；</p>
             </td>
             <td style="width: 80%;">
-                <img src="../../res/img/learning/Major_Channel_BilibiliStep1.png" alt="B站搜索1" class="image">
+                <img src="/FresherManual/res/img/learning/Major_Channel_BilibiliStep1.png" alt="B站搜索1" class="image">
             </td>
         </tr>
         <tr>
@@ -106,7 +106,7 @@
                 <p>搜索院系专业，方便横向对比；</p>
             </td>
             <td style="width: 80%;">
-                <img src="../../res/img/learning/Major_Channel_BilibiliStep2.png" alt="B站搜索2" class="image">
+                <img src="/FresherManual/res/img/learning/Major_Channel_BilibiliStep2.png" alt="B站搜索2" class="image">
             </td>
         </tr>
         <tr>
@@ -114,7 +114,7 @@
                 <p>直接搜索专业名称，坑不坑一眼便知；还有一些up，会出系统的视频来讲每个专业。</p>
             </td>
             <td style="width: 80%;">
-                <img src="../../res/img/learning/Major_Channel_BilibiliStep3.png" alt="B站搜索3" class="image">
+                <img src="/FresherManual/res/img/learning/Major_Channel_BilibiliStep3.png" alt="B站搜索3" class="image">
             </td>
         </tr>
     </tbody>
@@ -135,7 +135,7 @@
         <tr>
             <td>
                 <div class="image-container alignleft" style="width: 80%">
-                    <img src="../../res/img/learning/Major_Channel_AISearch.png" alt="AI搜索" class="image">
+                    <img src="/FresherManual/res/img/learning/Major_Channel_AISearch.png" alt="AI搜索" class="image">
                 </div>
             </td>
         </tr>

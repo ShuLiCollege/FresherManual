@@ -39,10 +39,10 @@
 
     <div class="container"><div class="row">
         <div class="col-4" style="padding-right: 0">
-            <img src="../../res/img/learning/Course_PointsExample1.png" alt="投分情况1">
+            <img src="/FresherManual/res/img/learning/Course_PointsExample1.png" alt="投分情况1">
         </div>
         <div class="col-3" style="padding-left: 0">
-            <img src="../../res/img/learning/Course_PointsExample2.png" alt="投分情况2">
+            <img src="/FresherManual/res/img/learning/Course_PointsExample2.png" alt="投分情况2">
         </div>
     </div></div>
 

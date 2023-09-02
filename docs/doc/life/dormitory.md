@@ -8,7 +8,7 @@
     <div class="container">
         <div class="row">
             <div class="col-4">
-                <img src="../../res/img/life/Dorm_Step2.png" alt="步骤2">
+                <img src="/FresherManual/res/img/life/Dorm_Step2.png" alt="步骤2">
             </div>
         </div>
     </div>
@@ -18,7 +18,7 @@
     <div class="container">
         <div class="row">
             <div class="col-9">
-                <img src="../../res/img/life/Dorm_Step3.png" alt="步骤3">
+                <img src="/FresherManual/res/img/life/Dorm_Step3.png" alt="步骤3">
             </div>
         </div>
     </div>
@@ -28,7 +28,7 @@
     <div class="container">
         <div class="row">
             <div class="col-9">
-                <img src="../../res/img/life/Dorm_Step4.png" alt="步骤4">
+                <img src="/FresherManual/res/img/life/Dorm_Step4.png" alt="步骤4">
             </div>
         </div>
     </div>
@@ -41,7 +41,7 @@
     <div class="container">
         <div class="row">
             <div class="col-4">
-                <img src="../../res/img/life/Dorm_Step6.png" alt="步骤6">
+                <img src="/FresherManual/res/img/life/Dorm_Step6.png" alt="步骤6">
             </div>
         </div>
     </div>
@@ -51,7 +51,7 @@
     <div class="container">
         <div class="row">
             <div class="col-9">
-                <img src="../../res/img/life/Dorm_Step7.png" alt="步骤7">
+                <img src="/FresherManual/res/img/life/Dorm_Step7.png" alt="步骤7">
             </div>
         </div>
     </div>
@@ -61,7 +61,7 @@
     <div class="container">
         <div class="row">
             <div class="col-9">
-                <img src="../../res/img/life/Dorm_Step8.png" alt="步骤8">
+                <img src="/FresherManual/res/img/life/Dorm_Step8.png" alt="步骤8">
             </div>
         </div>
     </div>
