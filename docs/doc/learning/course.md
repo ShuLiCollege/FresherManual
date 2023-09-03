@@ -1,5 +1,5 @@
 # 选课
-<div class="footer copyrightInfo" style="text-align: left; margin-bottom: -1rem">by 师珑天</div>
+<div class="footer copyrightInfo" style="text-align: left; margin-bottom: -1rem; padding-left: 1rem">by 师珑天</div>
 
 ## 如何选课
 1. 在[教学管理服务平台](https://tis.sustech.edu.cn)用CAS登录之后选课，要经过三轮：积分博弈、退补选和特殊类型（W）退课，原则上**每学期课程学分之和不超过25学分，建议修读18-23学分。**
