@@ -28,26 +28,24 @@
             1) 关注"广东共青团"或"12355青年之声"公众号；
         </div>
         <div class="col-4">
-            <table class="image-container" style="margin: 0">
-                <tbody>
-                    <tr>
-                        <td style="width: 48.7%;">
-                                <img src="https://shuli-gz-1259749012.cos.ap-guangzhou.myqcloud.com/img/deProblems/CYL_GuangDongCYL.jpg" alt="广东共青团">
-                        </td>
-                        <td style="width: 51.3%;">
-                            <img src="https://shuli-gz-1259749012.cos.ap-guangzhou.myqcloud.com/img/deProblems/CYL_12355VoiceOfYouth.jpg" alt="12355青年之声">
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <div style="text-align: center">广东共青团</div>
-                        </td>
-                        <td>
-                            <div style="text-align: center">12355青年之声</div>
-                        </td>
-                    </tr>
-                </tbody>
-            </table>
+            <div class="container">
+                <div class="row">
+                    <div class="col-6" style="padding: 0">
+                        <img src="https://shuli-gz-1259749012.cos.ap-guangzhou.myqcloud.com/img/deProblems/CYL_GuangDongCYL.jpg" alt="广东共青团">
+                    </div>
+                    <div class="col-6" style="padding: 0">
+                        <img src="https://shuli-gz-1259749012.cos.ap-guangzhou.myqcloud.com/img/deProblems/CYL_12355VoiceOfYouth.jpg" alt="12355青年之声" width="100%">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-6" style="padding: 0">
+                        <div style="text-align: center">广东共青团</div>
+                    </div>
+                    <div class="col-6" style="padding: 0">
+                        <div style="text-align: center">12355青年之声</div>
+                    </div>
+                </div>
+            </div>
         </td>
         <div class="col-3">
             &nbsp;
