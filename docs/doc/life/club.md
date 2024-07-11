@@ -67,7 +67,7 @@ CONC Acappella成立于2022年。Acappella是一种不使用乐器伴奏的人�
 
 **男足**
 
-<img src=../../res/img/life/Club_Football.jpeg alt="树礼男足" class="col-3 float-md-start mb-3 me-md-3">
+<img src=https://shuli-gz-1259749012.cos.ap-guangzhou.myqcloud.com/img/life/Club_Football.jpeg alt="树礼男足" class="col-3 float-md-start mb-3 me-md-3">
 
 树礼男子足球队是一支充满活力与潜力的年轻劲旅，近年来整体实力一直在稳步提升。在书院杯上我们连续四届比赛**小组出线**，在**新生杯**中更是连续两届的**亚军**获得者。球队每周组织**2～3次训练**，由**专业教练员何耀锦老师**带领。何教练认真细心，熟知每位球员的特点，是带训练次数最多以及唯一亲自指导新生杯的教练，在书院杯等11人制比赛中也积极使用新生。所以，我们是最注重培养新人的队伍，这在我们的日常训练与正式比赛中都能得到体现。我们欢迎所有热爱体育、热爱足球的同学，大家一起进步，一起为树礼创造新的辉煌！
 
