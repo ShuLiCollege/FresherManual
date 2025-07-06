@@ -14,4 +14,4 @@
   - [社团院队与学生组织](/doc/life/club.md)
 - [问题解决篇](/doc/deProblems/)
 - [通讯录](/doc/addressBook/)
-- [年表](/doc/timeline/)
+- [校历](/doc/timeline/)

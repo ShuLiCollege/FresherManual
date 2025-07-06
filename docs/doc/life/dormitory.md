@@ -1,72 +1,50 @@
 # 宿舍
 
 ## 洗衣房使用
-1. 在应用商店中，找到"海狸洗衣"这个 app 并下载
+1. 扫描二维码进入“海乐生活”小程序
+    
 
-2. 打开 app 进入主页
-
-    <div class="container">
-        <div class="row">
-            <div class="col-4">
-                <img src="https://shuli-gz-1259749012.cos.ap-guangzhou.myqcloud.com/img/life/Dorm_Step2.png" alt="步骤2">
-            </div>
-        </div>
-    </div>
-
-3. 点击"洗衣"，选择自己宿舍对应的洗衣房
-
-    <div class="container">
-        <div class="row">
-            <div class="col-9">
-                <img src="https://shuli-gz-1259749012.cos.ap-guangzhou.myqcloud.com/img/life/Dorm_Step3.png" alt="步骤3">
-            </div>
-        </div>
-    </div>
-
-4. 选择机器，并设置洗涤条件（一般按默认直接点"即时预订即可"）
-
-    <div class="container">
-        <div class="row">
-            <div class="col-9">
-                <img src="https://shuli-gz-1259749012.cos.ap-guangzhou.myqcloud.com/img/life/Dorm_Step4.png" alt="步骤4">
-            </div>
-        </div>
-    </div>
-
-5. 验证机器，到达洗衣房自己所预订的机器前，点击"验证机器"后，输入机器上所显示四位验证码数字，确认倒入洗衣液/粉且关闭好门后，点击支付
-即可。
-
-6. *（可选）*烘干（即不需要将洗好后的衣服挂置阳台，可以直接收入衣柜），回到主页，点击烘干
+2. 选择对应的模式
 
     <div class="container">
         <div class="row">
             <div class="col-4">
-                <img src="https://shuli-gz-1259749012.cos.ap-guangzhou.myqcloud.com/img/life/Dorm_Step6.png" alt="步骤6">
+                <img src="https://shuli-1366977553.cos.ap-guangzhou.myqcloud.com/life%2FDorm_Step2.png" alt="步骤2">
             </div>
         </div>
     </div>
 
-7. 选择自己宿舍对应的洗衣房
+3. 点击"立即下单"，之后点击“请关好舱门后，点击下一步”
 
     <div class="container">
         <div class="row">
             <div class="col-9">
-                <img src="https://shuli-gz-1259749012.cos.ap-guangzhou.myqcloud.com/img/life/Dorm_Step7.png" alt="步骤7">
+                <img src="https://shuli-1366977553.cos.ap-guangzhou.myqcloud.com/life%2FDorm_Step3.png" alt="步骤3">
             </div>
         </div>
     </div>
 
-8. 选择机器并设置烘干条件与时长后点击"即时预订"
+4. 选择“余额”，点击“去支付”
 
     <div class="container">
         <div class="row">
             <div class="col-9">
-                <img src="https://shuli-gz-1259749012.cos.ap-guangzhou.myqcloud.com/img/life/Dorm_Step8.png" alt="步骤8">
+                <img src="https://shuli-1366977553.cos.ap-guangzhou.myqcloud.com/life%2FDorm_Step4.png" alt="步骤4">
             </div>
         </div>
     </div>
 
-9.  验证机器，到达洗衣房自己所预订的机器前，点击"验证机器"后，输入机器上所显示四位验证码数字，确认关闭好门后，点击支付即可。
+5. *（可选）*烘干（即不需要将洗好后的衣服挂置阳台，可以直接收入衣柜），扫描烘干机上的二维码，进入如下页面，并选择希望烘干的模式
+
+    <div class="container">
+        <div class="row">
+            <div class="col-4">
+                <img src="https://shuli-1366977553.cos.ap-guangzhou.myqcloud.com/life%2FDorm_Step5.png" alt="步骤6">
+            </div>
+        </div>
+    </div>
+
+6. 点击“立即下单”后，流程类似洗衣
 
 &nbsp;
 > [!TIP]
