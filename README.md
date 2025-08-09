@@ -4,4 +4,4 @@
 
 文档文本以 [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 协议发布。
 
-(c) 2023 树礼书院大学长团
+(c) 2023-25 树礼书院大学长团
